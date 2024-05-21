@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iklil Najmi Hamzah</h1>
-<h3 align="center">Student who interest in tech industry</h3>
+<h3 align="center">Student at SMKN 1 Mojokerto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowxy&label=Profile%20views&color=0e75b6&style=flat" alt="yowxy" /> </p>
 
