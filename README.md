@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowxy&label=Profile%20views&color=0e75b6&style=flat" alt="yowxy" /> </p>
 
-- 🌱 I’m currently learning in SMKN 1 Mojokerto **Javascript,node.js,npm**
+- 🌱 I’m currently learnig **Javascript**
 
-- 💬 Ask me about **tech**
+- 💬 Ask me about **Javascript,Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
