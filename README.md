@@ -69,13 +69,13 @@ Hello! I'm Iklil, a driven student at SMKN 1 Mojokerto majoring in Visual Commun
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/Iklil Najmi hamzah" target="_blank">
+<a href="https://www.linkedin.com/in/iklil-najmi-hamzah-55262a253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/yowxy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/yowxy_" target="_blank">
+<a href="https://www.instagram.com/yowxy__/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
