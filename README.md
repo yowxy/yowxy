@@ -79,6 +79,10 @@ Hello! I'm Iklil, a driven student at SMKN 1 Mojokerto majoring in Visual Commun
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yowxy&&style=flat-square" align="center" />
+</div>  
   
 
 
@@ -90,10 +94,6 @@ Hello! I'm Iklil, a driven student at SMKN 1 Mojokerto majoring in Visual Commun
 
 
 
-## Recent Blog Posts  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=yowxy&&style=flat-square" align="center" />
-</div>  
+  
   
 
