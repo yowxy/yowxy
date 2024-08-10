@@ -73,8 +73,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/yowxy/yowxy/output/snake.svg" alt="Snake animation" />
 
 ###
