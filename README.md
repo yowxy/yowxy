@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yowxy" alt="yowxy" /></a> </p>
 
-- 🌱 I’m currently learnig **Laravel and prepare for schematic ITS 2024**
+- 🌱 I’m currently learnig **Laravel and Website Development**
 
-- 💬 Ask me about **Javascript,Node.js**
+- 💬 Ask me about **Laravel, mysql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
