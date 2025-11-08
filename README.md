@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learnig **Laravel and Website Development**
 
-- 💬 Ask me about **Laravel, mysql**
+- 💬 Ask me about **Laravel, Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
