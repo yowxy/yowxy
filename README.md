@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Iklil Najmi Hamzah</h1>
-<h3 align="center">Hello! I'm Iklil, a driven student at SMKN 1 Mojokerto majoring in Visual Communication Design. With a keen interest in programming, problem-solving, and design, I'm on a journey to explore the intersection of creativity and technology. I'm eager to leverage my skills and learn from others in the field, with a focus on creating innovative solutions and engaging visual experiences.</h3>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/435439b8-0bb4-4f73-ad03-7e4904e73e78" /><h1 align="center">Hi 👋, I'm Iklil Najmi Hamzah</h1>
+<h3 align="center">Iklil is a Jr.Software Developer
+Hire Me for Your
+Next Project
+</h3>
+<p>1+ years of experience in Software Developer, based in Surabaya</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowxy&label=Profile%20views&color=0e75b6&style=flat" alt="yowxy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yowxy" alt="yowxy" /></a> </p>
 
-- 🌱 I’m currently learnig **Laravel and Website Development**
+- 🌱 I’m currently learnig **Mobile Development and Website Development**
 
-- 💬 Ask me about **Laravel, Flutter**
+- 💬 Ask me about **Laravel, Flutter, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
