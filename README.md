@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Iklil Najmi Hamzah</h1>
+<h1 align="center">Hi, I'm Iklil Najmi Hamzah</h1>
 <h3 align="center">Iklil is a Jr.Software Developer
 Hire Me for Your
 Next Project
 </h3>
-<p>1+ years of experience in Software Developer, based in Surabaya</p>
+<p align="center">1+ years of experience in Software Developer, based in Surabaya</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowxy&label=Profile%20views&color=0e75b6&style=flat" alt="yowxy" /> </p>
 
