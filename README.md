@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/435439b8-0bb4-4f73-ad03-7e4904e73e78" /><h1 align="center">Hi 👋, I'm Iklil Najmi Hamzah</h1>
+<h1 align="center">Hi 👋, I'm Iklil Najmi Hamzah</h1>
 <h3 align="center">Iklil is a Jr.Software Developer
 Hire Me for Your
 Next Project
