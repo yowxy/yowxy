@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Iklil Najmi Hamzah</h1>
-<h3 align="center">Iklil is a Jr.Software Developer
+<h3 align="center">Iklil is a Jr.Software Engineering
 Hire Me for Your
 Next Project
 </h3>
@@ -11,7 +11,7 @@ Next Project
 
 - 🌱 I’m currently learnig **Mobile Development and Website Development**
 
-- 💬 Ask me about **Laravel, Flutter, **
+- 💬 Ask me about Software Engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
