@@ -16,7 +16,7 @@
 ### 🚀 About Me
 - 🌱 Currently learning *Software Engineering & Data Science*
 - 💬 Ask me about **Software Engineering**
-- 📫 Reach me on LinkedIn or Instagram below
+- 📫 Reach me on LinkedIn or Instagram 
 
 ---
 
